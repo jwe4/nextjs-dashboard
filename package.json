@@ -1,8 +1,9 @@
 {
+  "name": "nextjs-dashboard",
   "private": true,
   "scripts": {
+    "dev": "next dev",
     "build": "next build",
-    "dev": "next dev --turbopack",
     "start": "next start"
   },
   "dependencies": {
